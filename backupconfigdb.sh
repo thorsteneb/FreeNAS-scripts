@@ -3,7 +3,7 @@
 #
 # Location to store backup files in, adjust this to your dataset and path
 # Note this path has to end with '/'
-BackupDir=/mnt/Gion/Backup/FreeNAS-config/
+BackupDir=/mnt/MYPOOL/Backup/FreeNAS-config/
 # Number of days to keep backups for
 KeepFor=60
 #
