@@ -7,7 +7,7 @@
 # YourEmail:  The email address you want to send the email to if your database
 # is found to be corrupt.  Multiple email addresses are supported if separated
 # by a space.
-YourEmail="tbehrens@outlook.com"
+YourEmail="user@example.com"
 # ServerName:  How you want your server's name to appear in the email in the
 # event that the database is corrupt.
 ServerName=FreeNAS
